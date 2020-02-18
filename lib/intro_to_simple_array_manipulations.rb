@@ -30,4 +30,5 @@ end
 
 def using_inster(array,element)
   array.insert(3, element)
+  return array
 end
